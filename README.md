@@ -92,7 +92,7 @@ Using Power BI:
 ### Page 1 — Job Market Overview
 
 <p align="center">
-<img src="Images/Jobs Dashboard - Overview.png" width="600" alt="Jobs Dashboard Overview">
+<img src="Images/Jobs Dashboard - Overview.png" width="700" alt="Jobs Dashboard Overview">
 
 Provides a high-level view of the Indian data job market.
 
@@ -112,7 +112,7 @@ Designed for quick market understanding.
 ### Page 2 — Role Deep Dive
 
 <p align="center">
-<img src="Images/Jobs Dashboard - Role Beakdown.png" width="600" alt="Jobs Dashboard Role Breakdown">
+<img src="Images/Jobs Dashboard - Role Breakdown.png" width="700" alt="Jobs Dashboard Role Breakdown">
 
 Allows drill-down into specific roles.
 
