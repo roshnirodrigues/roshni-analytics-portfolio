@@ -1,6 +1,6 @@
 # 📊 Data Jobs Market Analysis — Power BI Project
 
-(Images/Jobs Dashboard - Overview.png)
+!(Images/Jobs Dashboard - Overview.png)
 
 ## 🚀 Project Overview
 
