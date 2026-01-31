@@ -68,6 +68,8 @@ To reduce the impact of outliers:
 
 Relationships were then created between fact and dimension tables based on the star schema.
 
+<p align="center">
+<img src="Images/star schema_jobs.png" width="500" alt="Star Schema Jobs">
 ---
 
 ## 🔍 Analysis Approach
